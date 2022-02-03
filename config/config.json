@@ -1,9 +1,0 @@
-{
-  "development": {
-    "username": "admin",
-    "password": "password",
-    "database": "database-1",
-    "host": "database-1.cizlfofzx10v.us-east-2.rds.amazonaws.com",
-    "dialect": "mysql"
-  }
-}
